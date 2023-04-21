@@ -1,1 +1,3 @@
 this is new
+*.log
+ignore file2.txt
