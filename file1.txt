@@ -1,1 +1,4 @@
 a new file text for today
+a new line of code toda
+a third line of file modifiedy
+a third line of file being added today
